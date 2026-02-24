@@ -1,5 +1,13 @@
 ## Hi there 👋
+I'm Justin, an iOS software engineer based in North West England.
 
+I'm allways looking for a new challange.
+
+I specialise in Swift UI prodominetly, but I also have experience in Kotlin.
+
+I have experience in an agile team and with shipping apps to Test Flight.
+
+I am currently early on in my career, only having a few public repositorys, but I am looking to expand this number, and improve my skills. 
 <!--
 **JJ-FEELY/JJ-FEELY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
