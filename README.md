@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Justin, an iOS software engineer based in North West England.
+I'm Justin, an iOS software engineer based in North West England, working for Copper Flame Software.
 
 I'm allways looking for a new challange.
 
