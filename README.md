@@ -1,13 +1,11 @@
 ## Hi there 👋
-I'm Justin, an iOS software engineer based in North West England, working for Copper Flame Software.
+I'm Justin, an iOS software engineer based in North West England, founder of GOTR, currently working for Copper Flame Software.
 
-I'm allways looking for a new challange.
+I have experience in Swift UI, developing API's, clean architechure, domain driven development and EF core.
 
-I specialise in Swift UI prodominetly, but I also have experience in Kotlin.
+I have experience in an agile team, front and back end, consisting in shipping production ready apps.
 
-I have experience in an agile team and with shipping apps to Test Flight.
-
-I am currently early on in my career, only having a few public repositorys, but I am looking to expand this number, and improve my skills. 
+I am currently early on in my career, but I already have my own App Store project for driving instructors and several personal open source projects for general use.
 <!--
 **JJ-FEELY/JJ-FEELY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
